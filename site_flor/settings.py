@@ -25,7 +25,7 @@ SECRET_KEY = 'pc2=32e+xc81#w%d(jlcb(#w8htw2o+8a9qp@+mk9do_t6mapw'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<flor>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'flor.pythonanywhere.com']
 
 
 # Application definition
